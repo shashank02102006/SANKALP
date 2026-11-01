@@ -1,0 +1,6 @@
+{
+  "name": "SANKALP",
+  "description": "Premium military-inspired discipline and habit tracker to build consistency, monitor streaks, and master daily focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
